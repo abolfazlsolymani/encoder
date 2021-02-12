@@ -1,4 +1,4 @@
-# encoder file
+# encoder file (base64,marshall,zlib...)
 
 # Telegram @SUDO_ROKO_TM
 
